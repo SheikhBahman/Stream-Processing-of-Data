@@ -1,5 +1,8 @@
 # Stream Processing of Data
 
+By:
+**Bahman Sheikh**
+
 **Stream processing:** The term "streaming" is used to describe continuous, never-ending data streams with no beginning or end, that provide a constant feed of data that can be utilized without needing to be completed or be downloaded first. Some common examples of streaming data are:
 
  - Real-time stock trades

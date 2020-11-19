@@ -54,9 +54,13 @@ The dataset contains data and statistics from the US Department of Transportatio
 - Example of Query:
 Someone wants to travel from airport X to airport Z. However, Tom also wants to stop at airport Y for some sightseeing on the way. More concretely, Tom has the following requirements:
 
-a) The second leg of the journey (flight Y-Z) must depart two days after the first leg (flight X-Y). For example, if X-Y departs on January 5, 2008, Y-Z must depart on January 7, 2008.
-b) Tom wants his flights scheduled to depart airport X before 12:00 PM local time and to depart airport Y after 12:00 PM local time.
-c) Tom wants to arrive at each destination with as little delay as possible. 
+- The second leg of the journey (flight Y-Z) must depart two days after the first leg (flight X-Y). For example, if X-Y departs on January 5, 2008, Y-Z must depart on January 7, 2008.
+- Tom wants his flights scheduled to depart airport X before 12:00 PM local time and to depart airport Y after 12:00 PM local time.
+- Tom wants to arrive at each destination with as little delay as possible. 
+
+x = BOS
+y = ATL
+z = LAX
 
 ![GitHub Logo](/IMG/7.png)
 

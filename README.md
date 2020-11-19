@@ -17,8 +17,8 @@ The world generates significant amount of data every minute of every day, and it
 With the complexity of today's modern requirements, legacy data processing methods have become obsolete for most use cases, as it can only process data as groups of transactions collected over time. Modern organizations actively use real-time data streams, acting on up-to-the-millisecond data. This continuous data offers numerous advantages that are transforming the way businesses run.
 
 ## Data source
-I will work on a transportation dataset from the **US Bureau of Transportation Statistics (BTS)** that is hosted as an **Amazon EBS volume snapshot**.
-The dataset used in the Project contains data and statistics from the US Department of Transportation on aviation, highway, transit, rail, pipeline, bike/pedestrian, and other modes of transportation in CSV format. In this Project, I will concentrate exclusively on the aviation portion of the dataset, which contains domestic flight data such as departure and arrival delays, flight times.
+I am working on a transportation dataset from the **US Bureau of Transportation Statistics (BTS)** that is hosted as an **Amazon EBS volume snapshot**.
+The dataset used in the Project contains data and statistics from the US Department of Transportation on aviation, highway, transit, rail, pipeline, bike/pedestrian, and other modes of transportation in CSV format. In this Project, I concentrate exclusively on the aviation portion of the dataset, which contains domestic flight data such as departure and arrival delays, flight times, destination and origin.
 
 - Amazon snapshot ID: snap-e1608d88
 - Size: 15 GB

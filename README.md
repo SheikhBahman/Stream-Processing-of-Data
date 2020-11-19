@@ -5,7 +5,7 @@
  - Real-time stock trades
  - Retail inventory management
  - Ride-sharing apps
- - Rultiplayer games
+ - Multiplayer games
 
 ![GitHub Logo](/IMG/1.png)
 

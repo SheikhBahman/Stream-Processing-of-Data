@@ -51,4 +51,19 @@ The dataset contains data and statistics from the US Department of Transportatio
 
 [![Watch the video](https://cdn.vox-cdn.com/thumbor/LR5ki43-jBT1N6nwkcAb4Lg0SnE=/0x0:1200x800/1220x813/filters:focal(504x304:696x496):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/65010013/youtube.0.jpg)](https://youtu.be/-U5e7SN_v8g)
 
+- Example of Query:
+Someone wants to travel from airport X to airport Z. However, Tom also wants to stop at airport Y for some sightseeing on the way. More concretely, Tom has the following requirements:
+
+a) The second leg of the journey (flight Y-Z) must depart two days after the first leg (flight X-Y). For example, if X-Y departs on January 5, 2008, Y-Z must depart on January 7, 2008.
+b) Tom wants his flights scheduled to depart airport X before 12:00 PM local time and to depart airport Y after 12:00 PM local time.
+c) Tom wants to arrive at each destination with as little delay as possible. 
+
+![GitHub Logo](/IMG/7.png)
+
+ # Future works
  
+ - Adding load balancer to receive data from different sources with different volume of ingested data 
+ - Create a live dashboard such as:
+       https://projects.fivethirtyeight.com/flights/
+ - Adding visual root finding algorithm
+

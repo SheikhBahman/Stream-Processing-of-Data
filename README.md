@@ -47,6 +47,8 @@ The dataset contains data and statistics from the US Department of Transportatio
 ## Live data processing using Spark Streaming SQL
 
 
+**I have recorded the implimentation steps in the following video**
 
+[![Watch the video](https://cdn.vox-cdn.com/thumbor/LR5ki43-jBT1N6nwkcAb4Lg0SnE=/0x0:1200x800/1220x813/filters:focal(504x304:696x496):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/65010013/youtube.0.jpg)](https://youtu.be/-U5e7SN_v8g)
 
  
